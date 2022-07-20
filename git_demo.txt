@@ -1,5 +1,9 @@
 hello,huaqin
 111
 222
+<<<<<<< HEAD
 world
 Huaqin
+=======
+wgt
+>>>>>>> wgt
